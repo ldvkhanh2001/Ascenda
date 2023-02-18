@@ -15,5 +15,5 @@ python main.py
 # Test
 Unit tests are created for testing the required class
 ```
-python test/test.py
+python test/test_valid_near_by_offers.py
 ```
