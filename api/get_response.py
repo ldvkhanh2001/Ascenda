@@ -13,7 +13,7 @@ class APIResponse():
             Get data from the response object
 
         Args:
-            apiConnect: a string of API connection
+            apiConnect: API url
 
         Return:
             if status code is 200: a dictionary of response data
