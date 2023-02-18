@@ -1,0 +1,10 @@
+cateDict:
+  1: Resturant
+  2: Retail
+  3: Hotel
+  4: Activity
+validDict:
+  Activity: true
+  Hotel: false
+  Resturant: true
+  Retail: true
